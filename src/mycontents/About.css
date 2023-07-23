@@ -1,0 +1,80 @@
+.card11
+{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.card12
+{
+    margin-bottom: 40px;
+    
+}
+
+.card12:hover
+{
+    transform: scale(1.1);
+    transition: 2s ease;
+}
+
+.card13
+{
+    background-color: rgba(60, 163, 163, 0.432);
+}
+
+.btn12:hover
+{
+    background-color: rgba(255, 0, 0, 0.568);
+    transition: 2s ease;
+}
+
+
+.text3
+{
+    color: rgba(255, 0, 0, 0.514);
+}
+
+.text4
+{
+    color: rgba(255, 255, 255, 0.493);
+}
+
+.t2
+{
+    margin-top: 100px;
+    text-align: left;
+    color: red;
+}
+.t3
+{
+    text-align: left;
+    text-align: justify;
+}
+
+.btn10
+{
+    background-color: blueviolet;
+    border-radius: 30px;
+    font-size: 18px;
+    color: blueviolet;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+.btn10:hover
+{
+    background-color: red;
+}
+
+.self
+{
+    margin-top: 110px;
+    margin-left: 40px;
+    width: 350px;
+    height: 400px;
+    background-color: rgb(189, 35, 35);
+    border-radius: 30px;
+}

@@ -1,0 +1,37 @@
+.txt1 
+{
+    color: red;
+}
+
+.txt2
+{
+    color: white;
+}
+
+.up
+{
+    margin-top: 40px;
+}
+
+.bank
+{
+    width: 300px;
+    height: 180px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.proj-txt
+{
+    text-align: justify;
+    color: white;
+    padding-left: 15px;
+}
+.head-txt
+{
+    color: white;
+}
+
+.proj-card1:hover
+{
+    background: linear-gradient(10deg, rgba(255, 2, 221, 0.233), rgb(255, 0, 0) 100%);   
+}

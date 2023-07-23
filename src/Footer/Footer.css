@@ -1,0 +1,21 @@
+.footer{
+    position: sticky;
+    bottom: 0%;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.footer1{
+    font-size: medium;
+    color: rgba(248, 248, 248, 0.884);
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 1px;
+}
+
+.footer1:hover{
+    font-size: medium;
+    color: rgba(248, 248, 248, 0.884);
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 1px;
+}
+

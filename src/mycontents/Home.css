@@ -1,0 +1,43 @@
+.img {
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+    background-color: rgb(228, 50, 50);
+}
+
+.txt4
+{
+    color: rgba(255, 255, 255, 0.288);
+    margin-top: 11rem;
+    text-align: left;
+}
+
+.txt5
+{
+    color: rgb(211, 12, 45);
+    margin-top: 0px;
+    text-align: left;
+    font-size: 5rem;
+}
+
+.txt5_i
+{
+    color:rgb(226, 225, 236)
+}
+
+.txt6
+{
+    color: rgb(192, 128, 138);
+    margin-top: 0px;
+    text-align: left;
+    
+}
+
+.btn1
+{
+    width: 30rem;
+
+}
+

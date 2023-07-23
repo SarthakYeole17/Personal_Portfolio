@@ -1,0 +1,172 @@
+.txt1 
+{
+    color: red;
+}
+
+.txt2
+{
+    color: white;
+}
+
+.up
+{
+    margin-top: 40px;
+}
+
+.card6
+{
+    margin-top: 30px;
+}
+
+.card1
+{
+    background-color: rgba(255, 255, 255, 0.181);
+    height: 400px;
+    width: 360px;
+}
+
+.card1:hover
+{
+    background-color: rgba(14, 7, 7, 0.288);
+    height: 400px;
+    width: 360px;
+    transform: scale(0.9);
+    transition: 1s ease;
+}
+
+.card2
+{
+    background-color: rgba(255, 255, 255, 0.181);
+    height: 400px;
+    width: 360px;
+}
+.card2:hover
+{
+    background-color: rgba(14, 7, 7, 0.288);
+    height: 400px;
+    width: 360px;
+    transform: scale(0.9);
+    transition: 1s ease;
+}
+
+.card3
+{
+    background-color: rgba(255, 255, 255, 0.181);
+    height: 400px;
+    width: 360px;
+}
+.card3:hover
+{
+    background-color: rgba(14, 7, 7, 0.288);
+    height: 400px;
+    width: 360px;
+    transform: scale(0.9);
+    transition: 1s ease;
+}
+
+.card4
+{
+    background-color: rgba(255, 255, 255, 0.181);
+    height: 400px;
+    width: 360px;
+}
+
+.card4:hover
+{
+    background-color: rgba(14, 7, 7, 0.288);
+    height: 400px;
+    width: 360px;
+    transform: scale(0.9);
+    transition: 1s ease;
+}
+
+.card5
+{
+    background-color: rgba(255, 255, 255, 0.181);
+    height: 400px;
+    width: 360px;
+}
+
+.card5:hover
+{
+    background-color: rgba(14, 7, 7, 0.288);
+    height: 400px;
+    width: 360px;
+    transform: scale(0.9);
+    transition: 1s ease;
+}
+
+.card7
+{
+    background-color: rgba(255, 255, 255, 0.181);
+    height: 400px;
+    width: 360px;
+}
+
+.card7:hover
+{
+    background-color: rgba(14, 7, 7, 0.288);
+    height: 400px;
+    width: 360px;
+    transform: scale(0.9);
+    transition: 1s ease;
+}
+
+
+.pic2
+{
+    margin-top: 20px;
+    width: 140px;
+}
+
+.pic3
+{
+    margin-top: 20px;
+    width: 150px;
+    height: 158px;
+}
+
+.pic4
+{
+    margin-top: 20px;
+    width: 250px;
+    height: 160px;
+}
+
+.pic5
+{
+    margin-top: 20px;
+    width: 130px;
+    height: 170px;
+}
+
+.pic6
+{
+    margin-top: 0px;
+    width: 190px;
+    height: 190px;
+}
+
+.pic7
+{
+    margin-top: 0px;
+    width: 180px;
+    height: 190px;
+}
+
+.txt
+{
+    color: white;
+}
+
+.progre{
+    margin-top: 0px;
+
+}
+
+.langtxt
+{
+    color: white;
+    text-align: left;
+    margin-top: 30px;
+}

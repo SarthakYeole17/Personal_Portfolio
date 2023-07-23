@@ -1,0 +1,51 @@
+.contxt
+{
+    margin-top: 50px;
+    color: white;
+    text-align: left;
+}
+.contxt1
+{
+    margin-top: 10px;
+    color: white;
+    text-align: left;
+    margin-bottom: 50px;
+    font-size: large;
+}
+
+.contxt1:hover 
+{
+    background-color: rgb(255, 0, 0);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.main
+{
+    margin-top: 8rem;
+}
+
+.up
+{
+    margin-top: 40px;
+}
+
+.txt1 
+{
+    color: red;
+}
+
+.txt2
+{
+    color: white;
+}
+
+/* .emailtxt1
+{
+    height: 20px;
+} */
+
+.divi
+{
+    
+    display: flex;
+}
